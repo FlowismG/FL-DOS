@@ -1,4 +1,4 @@
-Me trying to code my own DOS but not knowing assembly: <img width="498" height="280" align="left" style="float: left; margin: 0 10px 0 0;" src="https://tenor.com/view/dumb-patrick-star-spongebob-gif-18338460">
+Me trying to code my own DOS but not knowing assembly: <gif width="498" height="280" align="left" style="float: left; margin: 0 10px 0 0;" src="https://tenor.com/view/dumb-patrick-star-spongebob-gif-18338460">
 
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png">   
 
